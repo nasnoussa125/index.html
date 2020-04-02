@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#nav{
+	height: 22vh;width: 100%;
+}
+#mainlist{
+	list-style: none;
+	margin-left: 1250px;
+}
+li{
+	float: left;padding: 8px;
+}
+#google{
+	height: 95px;
+	width: 290px;
+	margin-left: 550px;
+}
+input{
+    height: 40px;width: 500px;
+    margin-left:430px;
+    padding-left: 20px;
+    font-size: 20px;
+    border: 1px solid #e5e5e5;
+    border-radius: 3%;
+    box-shadow: 0px 3px 0px 0px #e5e5e5;
+}
+button{
+        height: 38px;width: 140px;
+        background-color: #f6f6f6;
+        font-size: 12px;color:#222222;
+        margin-top: 30px;
+        border: 1px solid #e4e4e4;
+}
+#footer{
+	height: 45px;width: 1440px;
+	background-color: #f2f2f2;
+	margin-top: 271px;
+	font-weight: normal;
+}
+#secondlist{
+	list-style: none;
+	margin-left: -25px;
+	color: #6f6f6f;
+}
+body{
+	font-family: arial,sans-sérif;
+	font-size: 14px;
+}
